@@ -1,7 +1,7 @@
 ---
 name: Matthew
 about: Structured checklist for reviewing a classmate's Queen’s Student Page
-title: "Peer Review: Matthew reviewing SamuelSavarie"
+title: "Peer Review: Matthew reviewing Samuel Savarie"
 labels: peer-review
 assignees: Sam S
 ---
