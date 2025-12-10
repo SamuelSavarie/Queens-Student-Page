@@ -2,8 +2,8 @@
 
 # Binary App
 
-![Screenshot 2025-12-10 005035.png]()
-
+![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20005814.png)
+![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20005035.png)
 
 
 
