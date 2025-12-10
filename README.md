@@ -2,7 +2,7 @@
 
 # Binary App
 
-![Screenshot 2025-12-10 005035]()
+![Screenshot 2025-12-10 005035.png]()
 
 
 
