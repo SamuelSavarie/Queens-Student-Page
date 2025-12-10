@@ -5,7 +5,7 @@
 ![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20005814.png)
 ![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20005035.png)
 ![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20010222.png)
-
+![](https://github.com/SamuelSavarie/Queens-Student-Page/blob/main/Screenshot%202025-12-10%20010348.png)
 
 ## Problem Breakdown: Binary search was broken down into smaller tasks such as validating the input, running the search using left, mid, and right pointers, logging each decision, and rendering the visualization. The algorithm relies on a repeating pattern of checking the midpoint, comparing it to the target, and discarding half the search space each time. To keep the interface clear, unnecessary details are removed, and only the key elements (array values, pointer positions, and step explanations) are shown. The algorithm follows a structured sequence of computing the midpoint, deciding which half to keep, updating boundaries, and repeating until the target is found or the search range collapses. A simple flow of: start, set boundaries, repeat midpoint comparison, and end, captures the full procedure.
 
